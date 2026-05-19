@@ -1,4 +1,4 @@
-# 📚 Tutorly — Mobile Tutor Booking App UI
+# Tutorly — Mobile Tutor Booking App UI
 
 Tutorly is a modern and aesthetic mobile app UI designed using Figma.  
 This project focuses on creating a clean and user-friendly tutor booking experience with soft pastel colors, modern layouts, and smooth UI flow.
