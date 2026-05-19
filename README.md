@@ -3,7 +3,6 @@
 Tutorly is a modern and aesthetic mobile app UI designed using Figma.  
 This project focuses on creating a clean and user-friendly tutor booking experience with soft pastel colors, modern layouts, and smooth UI flow.
 
----
 
 # ✨ Features
 
@@ -16,7 +15,7 @@ This project focuses on creating a clean and user-friendly tutor booking experie
 - User profile screen
 - Mobile-first design approach
 
----
+
 
 # 📱 Screens Included
 
@@ -27,7 +26,7 @@ This project focuses on creating a clean and user-friendly tutor booking experie
 5. Confirmation Screen  
 6. Profile Screen  
 
----
+
 
 # 🎨 Design Style
 
@@ -38,15 +37,15 @@ This project focuses on creating a clean and user-friendly tutor booking experie
 - Smooth spacing and alignment
 - Modern mobile app aesthetics
 
----
+
 
 # 🛠️ Tools Used
 
 - Figma
 - Unsplash Plugin
 - Feather Icons
+  
 
----
 
 # 🎯 Project Goal
 
@@ -57,19 +56,19 @@ The goal of this project was to practice:
 - Visual Hierarchy
 - Modern Design Systems
 
----
+
 
 # 💜 About The Project
 
 Tutorly was designed as a student UI/UX practice project to create a premium-looking tutor booking application interface with a simple and engaging user experience.
 
----
+
 
 # 📌 Designed By
 
 Roshini Botta
 
----
+
 
 
 
